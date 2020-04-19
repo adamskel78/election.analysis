@@ -29,7 +29,7 @@ The analysis of the election show that:
     
 ## Challenge Overview
 
-## CHallenge Summary
+## Challenge Summary
     
    
     
